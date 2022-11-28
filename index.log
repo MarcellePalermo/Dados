@@ -1,0 +1,83 @@
+var texto;
+undefined
+texto = ` <html><head><title>Gulliver Traveller - Roteiros</title></head><body><b>->1 - Roteiros para *São Paulo*</b><br>A Terra da Garoa!<br>Fundada em 25 de janeiro de 1554 a cidade tem hoje cerca de 12 milhões de habitantes e é considerada o centro financeiro do Brasil e aqui vão 3 dicas de roteiros obrigatórios para aqueles que passam pela capital paulista<br>#Roteiro A | Região: Avenida Paulista<br>MASP; Parque Trianon; Rua Augusta<br>#Roteiro B | Região: Centro<br>Catedral da Sé; Pátio do Colégio; Rua Augusta<br>#Roteiro C | Região: Vila Madalena<br>Beco do Batman; Feirinha da Benedito Calixto; Livraria da Vila<br> <b>->2 - Roteiros para *Las Vegas*</b><br>Viva Las Vegas!<br>       A cidade mais populosa e mais densamente povoada do estado de Nevada, Las Vegas foi fundada em 1905 e é considerada uma cidade, oficialmente, desde 1911 e conta com mais de meio milhão de habitantes. Venha conhecer a capital dos jogos de azar!<br>#Roteiro A | Região: Las Vegas Boulevard South<br>Fonte do Bellagio; Principais Cassinos; Madame Tussauds<br>#Roteiro B | Região: Downtown<br>; Fremont; Las Vegas Art Museum; Museu nacional do Crime Organizado; <br>#Roteiro C | Região: Las Vegas Boulevard North<br>Outlet Premium North; Stratosphere; Apple Fashion Show<br><b>->3 - Roteiros para *Moscou*</b><br>Privet!<br>A capital Russa fica situada às margens do Rio Moscou e apesar de ser a cidade mais cosmopolita da Rússia, conta com grande resguardo de sua história soviética<br>#Roteiro A | Região: Praça Vermelha<br>Museu Histórico do Estado; Catedral de São Basílico; Mausoléu de Lênin<br>#Roteiro B | Região: Centro<br>Teatro Bolshoi; Monumento a Karl Marx; Rio Moscou<br>#Roteiro C | Região: Obras pela cidade<br>Metrô de Moscou; As Sete Irmãs; Moscow Leningradsky Railway Station  <br>
+
+</body>
+
+</html>`;
+' <html><head><title>Gulliver Traveller - Roteiros</title></head><body><b>->1 - Roteiros para *São Paulo*</b><br>A Terra da Garoa!<br>Fundada em 25 de janeiro de 1554 a cidade tem hoje cerca de 12 milhões de habitantes e é considerada o centro financeiro do Brasil e aqui vão 3 dicas de roteiros obrigatórios para aqueles que passam pela capital paulista<br>#Roteiro A | Região: Avenida Paulista<br>MASP; Parque Trianon; Rua Augusta<br>#Roteiro B | Região: Centro<br>Catedral da Sé; Pátio do Colégio; Rua Augusta<br>#Roteiro C | Região: Vila Madalena<br>Beco do Batman; Feirinha da Benedito Calixto; Livraria da Vila<br> <b>->2 - Roteiros para *Las Vegas*</b><br>Viva Las Vegas!<br>       A cidade mais populosa e mais densamente povoada do estado de Nevada, Las Vegas foi fundada em 1905 e é considerada uma cidade, oficialmente, desde 1911 e conta com mais de meio milhão de habitantes. Venha conhecer a capital dos jogos de azar!<br>#Roteiro A | Região: Las Vegas Boulevard South<br>Fonte do Bellagio; Principais Cassinos; Madame Tussauds<br>#Roteiro B | Região: Downtown<br>; Fremont; Las Vegas Art Museum; Museu nacional do Crime Organizado; <br>#Roteiro C | Região: Las Vegas Boulevard North<br>Outlet Premium North; Stratosphere; Apple Fashion Show<br><b>->3 - Roteiros para *Moscou*</b><br>Privet!<br>A capital Russa fica situada às margens do Rio Moscou e apesar de ser a cidade mais cosmopolita da Rússia, conta com grande resguardo de sua história soviética<br>#Roteiro A | Região: Praça Vermelha<br>Museu Histórico do Estado; Catedral de São Basílico; Mausoléu de Lênin<br>#Roteiro B | Região: Centro<br>Teatro Bolshoi; Monumento a Karl Marx; Rio Moscou<br>#Roteiro C | Região: Obras pela cidade<br>Metrô de Moscou; As Sete Irmãs; Moscow Leningradsky Railway Station  <br>\n\n</body>\n\n</html>'
+console.log (texto);
+VM3206:1  <html><head><title>Gulliver Traveller - Roteiros</title></head><body><b>->1 - Roteiros para *São Paulo*</b><br>A Terra da Garoa!<br>Fundada em 25 de janeiro de 1554 a cidade tem hoje cerca de 12 milhões de habitantes e é considerada o centro financeiro do Brasil e aqui vão 3 dicas de roteiros obrigatórios para aqueles que passam pela capital paulista<br>#Roteiro A | Região: Avenida Paulista<br>MASP; Parque Trianon; Rua Augusta<br>#Roteiro B | Região: Centro<br>Catedral da Sé; Pátio do Colégio; Rua Augusta<br>#Roteiro C | Região: Vila Madalena<br>Beco do Batman; Feirinha da Benedito Calixto; Livraria da Vila<br> <b>->2 - Roteiros para *Las Vegas*</b><br>Viva Las Vegas!<br>       A cidade mais populosa e mais densamente povoada do estado de Nevada, Las Vegas foi fundada em 1905 e é considerada uma cidade, oficialmente, desde 1911 e conta com mais de meio milhão de habitantes. Venha conhecer a capital dos jogos de azar!<br>#Roteiro A | Região: Las Vegas Boulevard South<br>Fonte do Bellagio; Principais Cassinos; Madame Tussauds<br>#Roteiro B | Região: Downtown<br>; Fremont; Las Vegas Art Museum; Museu nacional do Crime Organizado; <br>#Roteiro C | Região: Las Vegas Boulevard North<br>Outlet Premium North; Stratosphere; Apple Fashion Show<br><b>->3 - Roteiros para *Moscou*</b><br>Privet!<br>A capital Russa fica situada às margens do Rio Moscou e apesar de ser a cidade mais cosmopolita da Rússia, conta com grande resguardo de sua história soviética<br>#Roteiro A | Região: Praça Vermelha<br>Museu Histórico do Estado; Catedral de São Basílico; Mausoléu de Lênin<br>#Roteiro B | Região: Centro<br>Teatro Bolshoi; Monumento a Karl Marx; Rio Moscou<br>#Roteiro C | Região: Obras pela cidade<br>Metrô de Moscou; As Sete Irmãs; Moscow Leningradsky Railway Station  <br>
+
+</body>
+
+</html>
+undefined
+//Cidades do roteiro
+undefined
+var cidadeSP = texto.search ("São Paulo");
+var cidadeLV = texto.search ("Las Vegas");
+var cidadeMO= texto.search ("Moscou");
+undefined
+console.log (cidadeSP);
+console.log (cidadeLV);
+console.log (cidadeMO);
+VM3221:1 94
+VM3221:2 644
+VM3221:3 1282
+undefined
+var cidSP = texto.substring(93,103);
+var cidLA = texto.substring(643,653);
+var cidMO = texto.substring(1281,1288);
+undefined
+console.log (cidSP);
+console.log (cidLA);
+console.log (cidMO);
+VM3257:1 *São Paulo
+VM3257:2 *Las Vegas
+VM3257:3 *Moscou
+undefined
+//Roteiro de cada cidade
+undefined
+var roteiroA = texto.split ("#");
+undefined
+console.log(roteiroA);
+VM3269:1 (10) [' <html><head><title>Gulliver Traveller - Roteiros<…para aqueles que passam pela capital paulista<br>', 'Roteiro A | Região: Avenida Paulista<br>MASP; Parque Trianon; Rua Augusta<br>', 'Roteiro B | Região: Centro<br>Catedral da Sé; Pátio do Colégio; Rua Augusta<br>', 'Roteiro C | Região: Vila Madalena<br>Beco do Batma…. Venha conhecer a capital dos jogos de azar!<br>', 'Roteiro A | Região: Las Vegas Boulevard South<br>F…ellagio; Principais Cassinos; Madame Tussauds<br>', 'Roteiro B | Região: Downtown<br>; Fremont; Las Veg… Museum; Museu nacional do Crime Organizado; <br>', 'Roteiro C | Região: Las Vegas Boulevard North<br>O…om grande resguardo de sua história soviética<br>', 'Roteiro A | Região: Praça Vermelha<br>Museu Histór…; Catedral de São Basílico; Mausoléu de Lênin<br>', 'Roteiro B | Região: Centro<br>Teatro Bolshoi; Monumento a Karl Marx; Rio Moscou<br>', 'Roteiro C | Região: Obras pela cidade<br>Metrô de …ingradsky Railway Station  <br>\n\n</body>\n\n</html>']
+undefined
+console.log (roteiroA [1]);
+console.log (roteiroA [4]);
+console.log (roteiroA [7]);
+
+VM3273:1 Roteiro A | Região: Avenida Paulista<br>MASP; Parque Trianon; Rua Augusta<br>
+VM3273:2 Roteiro A | Região: Las Vegas Boulevard South<br>Fonte do Bellagio; Principais Cassinos; Madame Tussauds<br>
+VM3273:3 Roteiro A | Região: Praça Vermelha<br>Museu Histórico do Estado; Catedral de São Basílico; Mausoléu de Lênin<br>
+undefined
+//quantidade de locais em cada roteiro A
+
+undefined
+var locaisSP = roteiroA [1].split(";");
+var locaisLA = roteiroA [4].split(";");
+var locaisMO = roteiroA [7].split(";");
+undefined
+console.log (locaisSP);
+console.log (locaisLA);
+console.log (locaisMO);
+VM3285:1 (3) ['Roteiro A | Região: Avenida Paulista<br>MASP', ' Parque Trianon', ' Rua Augusta<br>']
+VM3285:2 (3) ['Roteiro A | Região: Las Vegas Boulevard South<br>Fonte do Bellagio', ' Principais Cassinos', ' Madame Tussauds<br>']
+VM3285:3 (3) ['Roteiro A | Região: Praça Vermelha<br>Museu Histórico do Estado', ' Catedral de São Basílico', ' Mausoléu de Lênin<br>']
+undefined
+// Pontos turíscos centro de SP
+undefined
+var centroSP =  roteiroA [2];
+
+undefined
+console.log (centroSP);
+VM3297:1 Roteiro B | Região: Centro<br>Catedral da Sé; Pátio do Colégio; Rua Augusta<br>
+undefined
+// Pontos turíscos centro de Downtown
+undefined
+var centroDowntown = roteiroA [5];
+undefined
+console.log (centroDowntown);
+VM3309:1 Roteiro B | Região: Downtown<br>; Fremont; Las Vegas Art Museum; Museu nacional do Crime Organizado; <br>
+undefined
